@@ -21,7 +21,6 @@
  	Right		= the same location as VitaShell
 	Upper Right	= the same location as the NEAR app
 
-	----------------------------------------------------
 
 ** TRANSFER THE FILES **
 

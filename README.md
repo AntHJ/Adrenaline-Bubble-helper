@@ -1,4 +1,4 @@
-# Adrenaline-Bubble-helper
+# Adrenaline Bubble Helper
 I Know its not perfect, but its helpful
 
 

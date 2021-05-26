@@ -1,6 +1,9 @@
-# Adrenaline-Bubble-helper - I Know its not perfect, but its helpful
+# Adrenaline-Bubble-helper
+I Know its not perfect, but its helpful
 
-**ABOUT**
+
+
+# **ABOUT**
 
  This tool will resize images to the required sizes for the Adrenaline Bubble Manager
  and also convert them to 8 bit png images..
@@ -22,7 +25,7 @@
 	Upper Right	= the same location as the NEAR app
 
 
-** TRANSFER THE FILES **
+# ** TRANSFERING THE FILES **
 
  Transfer the created folder / converted images to your Vitas UX0: so for example
  you would have something like this
@@ -36,9 +39,8 @@
 				\002.png
 				\003.png
 
-	----------------------------------------------------
-
-** INSTALLING / INJECTING THE IMAGES **
+	
+# ** INSTALLING / INJECTING THE IMAGES **
 
  - Open Adrenaline bubble manager
  - Create a bubble like you normally do (to remove the PS1/PSP background on launch,
